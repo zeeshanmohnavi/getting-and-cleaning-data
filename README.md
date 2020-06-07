@@ -1,9 +1,3 @@
----
-title: "README"
-output:
-  html_document: default
----  
-
 # Create Tidy Data
 
 This repository contains artefacts for the final project for the course "Getting and Cleaning Data" on Coursera offered by John Hopkins University.  
@@ -185,7 +179,7 @@ To obtain the tidy data set, the `run_analysis.R` script take the following acti
        
 ## Author
 
-- **Md. Zeeshan Mohnavi**
-  GitHUb - [zeeshanmohnavi](https://github.com/zeeshanmohnavi)
+- **Md. Zeeshan Mohnavi**  
+  GitHUb - [zeeshanmohnavi](https://github.com/zeeshanmohnavi)  
   Email - <zeeshanmohnavi@gmail.com>
   
