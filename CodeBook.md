@@ -1,6 +1,6 @@
 ## Data Dictionary
 
-Refer to the [README](./README.html#token-desc) for a description of the tokens used to create the descriptive variable names.
+Refer to the [README](./README.md#token-desc) for a description of the tokens used to create the descriptive variable names.
   
 | **Column Index** | **Variable Name** | **Data Type** | **Labels** | **Values** |
 |------------------|-------------------|---------------|------------|------------|
