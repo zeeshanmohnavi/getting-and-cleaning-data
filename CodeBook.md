@@ -1,7 +1,3 @@
----
-title: "CodeBook"
----
-
 ## Data Dictionary
 
 Refer to the [README](./README.html#token-desc) for a description of the tokens used to create the descriptive variable names.
